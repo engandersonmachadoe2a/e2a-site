@@ -1,27 +1,18 @@
-# E2A Site V3 — Catálogo Interativo
+# Anderson Alves Machado — Site Profissional
 
-Esta versão transforma o catálogo E2A em uma interface comercial interativa.
+Site profissional pessoal de **Anderson Alves Machado**, Engenheiro Eletricista e Técnico em Eletrotécnica.
 
-## Recursos
-- Capa do catálogo como hero.
-- Serviços clicáveis com janela detalhada.
-- Botões de WhatsApp por serviço.
-- Catálogo navegável.
-- Processo de contratação.
-- Instrumentação.
-- Destaque para carregadores veiculares.
-- Formulário de contato por e-mail.
-- Responsivo para celular.
-- Identidade azul-marinho/dourado do catálogo.
+## Formação
+- Técnico em Eletrotécnica — CEPEP (2016)
+- Bacharelado em Engenharia Elétrica — Centro Universitário Farias Brito (2024.2)
+- Especialização em Projeto e Execução de Sistemas Prediais com BIM e IA — INBEC (em andamento)
 
-## Contatos
-WhatsApp: (85) 99726-1752
-E-mail: andersonalvesmachado@gmail.com
+## Publicação no GitHub Pages
+- Repositório: `e2a-site`
+- Branch: `main`
+- Pasta: `/(root)`
 
-## Observação
-O link do Instagram deve ser substituído pelo perfil oficial antes da publicação.
-
-
-## Versão regional — Ceará
-Esta versão prioriza o mercado do Ceará, com foco em Fortaleza e Região Metropolitana, mantendo atendimento sob consulta em outras regiões do Estado e no Brasil.
-O site inclui SEO regional para termos relacionados a engenharia elétrica, projetos, laudos, qualidade de energia, termografia e SPDA no Ceará.
+## Contato
+- WhatsApp: (85) 99726-1752
+- E-mail: Andersonmachado.eng@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anderson-alves-machado/
