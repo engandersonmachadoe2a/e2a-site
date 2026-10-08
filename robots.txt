@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://engandersonmachado.com.br/sitemap.xml
